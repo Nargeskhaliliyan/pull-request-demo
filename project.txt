@@ -1,3 +1,12 @@
 GitHub Pull Request Demo
+
 Version 1.0
-code review practice project
+
+Purpose:
+This project demonstrates the GitHub Pull Request and Code Review workflow.
+
+Features:
+
+- Create and review pull requests.
+- Provide constructive feedback.
+- Apply suggested improvements.
