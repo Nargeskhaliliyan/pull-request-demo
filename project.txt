@@ -1,4 +1,12 @@
 GitHub Pull Request Demo
+
 Version 1.0
-this chnage was added via pull request
-Pull Request updated with a second commit.
+
+Purpose:
+This project demonstrates the GitHub Pull Request and Code Review workflow.
+
+Features:
+
+- Create and review pull requests.
+- Provide constructive feedback.
+- Apply suggested improvements.
